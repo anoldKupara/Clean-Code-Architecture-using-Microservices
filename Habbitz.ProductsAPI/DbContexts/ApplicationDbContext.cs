@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Habbitz.ProductsAPI.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Habbitz.ProductsAPI.DbContexts
 {
@@ -7,5 +8,6 @@ namespace Habbitz.ProductsAPI.DbContexts
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
+        public DbSet<Product> Products { get; set; }    
     }
 }

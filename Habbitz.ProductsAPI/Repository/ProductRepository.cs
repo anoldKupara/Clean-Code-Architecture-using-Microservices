@@ -12,8 +12,8 @@ namespace Habbitz.ProductsAPI.Repository
     public class ProductRepository : IProductRepository
     {
         private readonly ApplicationDbContext _dbContext;
-        private readonly IMapper _mapper;
-
+        private IMapper _mapper;
+         
         public ProductRepository(ApplicationDbContext dbContext, IMapper mapper)
         {
             _dbContext = dbContext;
@@ -58,7 +58,7 @@ namespace Habbitz.ProductsAPI.Repository
             return _mapper.Map<ProductDto>(product);
         }
 
-        public async Task<IEnumerable<ProductDto>> GetProducts()
+        public async Task<IEnumerable<ProductDto>> GetProductById()
         {
             List<Product> productList = await _dbContext.Products.ToListAsync();
             return _mapper.Map<List<ProductDto>>(productList);

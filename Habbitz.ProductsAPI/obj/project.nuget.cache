@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sptsKEHSi8xITpgCZiXWcF8F912pvUKxcvtoGacjZi+lMavg5WVSul/EKyBfX1ugbg8rf2NS1S5VX/XQH4xjZw==",
+  "dgSpecHash": "Tq+6zG4bmEK5S4/JdPmBAT0JENuFg1kq+C4pQ4cU2sFEe++IkySbpbHY4vjNx9RlroJTd8rL/FL7nsaR7LIgzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\akupa\\source\\repos\\Microservices Clean Code\\Habbitz.ProductsAPI\\Habbitz.ProductsAPI.csproj",
   "expectedPackageFiles": [
@@ -106,8 +106,7 @@
     "C:\\Users\\akupa\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\akupa\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\akupa\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\akupa\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\akupa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+    "C:\\Users\\akupa\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

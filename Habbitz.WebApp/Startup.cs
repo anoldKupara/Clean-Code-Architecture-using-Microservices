@@ -29,6 +29,7 @@ namespace Habbitz.WebApp
             SD.ProductAPIBase = Configuration["ServiceUrls:ProductAPI"];
 
             services.AddScoped<IProductService, ProductService>();
+
             services.AddControllersWithViews();
         }
 

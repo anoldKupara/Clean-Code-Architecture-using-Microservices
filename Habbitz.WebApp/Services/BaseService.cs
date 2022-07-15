@@ -1,12 +1,13 @@
 ﻿using Habbitz.WebApp.Models;
 using Habbitz.WebApp.Services.IServices;
-using Newtonsoft.Json;
+using System.Text.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace Habbitz.WebApp.Services
 {

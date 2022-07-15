@@ -5,6 +5,7 @@ C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\bin\Deb
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\bin\Debug\net5.0\Habbitz.ProductsAPI.runtimeconfig.json
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\bin\Debug\net5.0\Habbitz.ProductsAPI.runtimeconfig.dev.json
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\bin\Debug\net5.0\Habbitz.ProductsAPI.dll
+C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\bin\Debug\net5.0\ref\Habbitz.ProductsAPI.dll
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\bin\Debug\net5.0\Habbitz.ProductsAPI.pdb
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -64,4 +65,3 @@ C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\obj\Deb
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\obj\Debug\net5.0\ref\Habbitz.ProductsAPI.dll
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\obj\Debug\net5.0\Habbitz.ProductsAPI.pdb
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\obj\Debug\net5.0\Habbitz.ProductsAPI.genruntimeconfig.cache
-C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.ProductsAPI\obj\Debug\net5.0\refint\Habbitz.ProductsAPI.dll

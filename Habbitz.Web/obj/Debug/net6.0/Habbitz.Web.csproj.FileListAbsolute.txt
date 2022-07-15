@@ -24,3 +24,5 @@ C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.Web\obj\Debug\net6.
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.Web\obj\Debug\net6.0\Habbitz.Web.pdb
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.Web\obj\Debug\net6.0\Habbitz.Web.genruntimeconfig.cache
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.Web\obj\Debug\net6.0\ref\Habbitz.Web.dll
+C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.Web\obj\Debug\net6.0\Habbitz.Web.csproj.CopyComplete

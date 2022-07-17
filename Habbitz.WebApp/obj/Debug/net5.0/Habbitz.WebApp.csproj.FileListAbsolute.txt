@@ -355,3 +355,4 @@ C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.WebApp\obj\Debug\ne
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.WebApp\obj\Debug\net5.0\Habbitz.WebApp.pdb
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.WebApp\obj\Debug\net5.0\Habbitz.WebApp.genruntimeconfig.cache
 C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.WebApp\obj\Debug\net5.0\refint\Habbitz.WebApp.dll
+C:\Users\akupa\source\repos\Microservices Clean Code\Habbitz.WebApp\obj\Debug\net5.0\Razor\Views\Product\ProductIndex.cshtml.g.cs
